@@ -1,0 +1,14 @@
+C:\development\Nearest Vehicles to points\Nearest Vehicles to points\obj\Debug\netcoreapp3.1\Nearest Vehicles to points.csproj.AssemblyReference.cache
+C:\development\Nearest Vehicles to points\Nearest Vehicles to points\obj\Debug\netcoreapp3.1\Nearest Vehicles to points.GeneratedMSBuildEditorConfig.editorconfig
+C:\development\Nearest Vehicles to points\Nearest Vehicles to points\obj\Debug\netcoreapp3.1\Nearest Vehicles to points.AssemblyInfoInputs.cache
+C:\development\Nearest Vehicles to points\Nearest Vehicles to points\obj\Debug\netcoreapp3.1\Nearest Vehicles to points.AssemblyInfo.cs
+C:\development\Nearest Vehicles to points\Nearest Vehicles to points\obj\Debug\netcoreapp3.1\Nearest Vehicles to points.csproj.CoreCompileInputs.cache
+C:\development\Nearest Vehicles to points\Nearest Vehicles to points\bin\Debug\netcoreapp3.1\Nearest Vehicles to points.exe
+C:\development\Nearest Vehicles to points\Nearest Vehicles to points\bin\Debug\netcoreapp3.1\Nearest Vehicles to points.deps.json
+C:\development\Nearest Vehicles to points\Nearest Vehicles to points\bin\Debug\netcoreapp3.1\Nearest Vehicles to points.runtimeconfig.json
+C:\development\Nearest Vehicles to points\Nearest Vehicles to points\bin\Debug\netcoreapp3.1\Nearest Vehicles to points.runtimeconfig.dev.json
+C:\development\Nearest Vehicles to points\Nearest Vehicles to points\bin\Debug\netcoreapp3.1\Nearest Vehicles to points.dll
+C:\development\Nearest Vehicles to points\Nearest Vehicles to points\bin\Debug\netcoreapp3.1\Nearest Vehicles to points.pdb
+C:\development\Nearest Vehicles to points\Nearest Vehicles to points\obj\Debug\netcoreapp3.1\Nearest Vehicles to points.dll
+C:\development\Nearest Vehicles to points\Nearest Vehicles to points\obj\Debug\netcoreapp3.1\Nearest Vehicles to points.pdb
+C:\development\Nearest Vehicles to points\Nearest Vehicles to points\obj\Debug\netcoreapp3.1\Nearest Vehicles to points.genruntimeconfig.cache
