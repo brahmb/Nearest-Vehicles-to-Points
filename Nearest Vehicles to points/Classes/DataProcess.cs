@@ -78,7 +78,8 @@ namespace Nearest_Vehicles_to_points.Classes
                         do
                         {
                             chr = reader.ReadChar();
-                            vehicleRegistration += chr;
+                            if (chr != '\0')
+                                vehicleRegistration += chr;
                         }
                         while (chr != '\0');
                         float latitude = reader.ReadSingle();
@@ -109,7 +110,8 @@ namespace Nearest_Vehicles_to_points.Classes
         public void GetClosest(float LatitudeParameter, float LongitudeParameter)
         {
             this.closestPosition = null;
-            foreach(Position position in this.Positions)
+            this.distance = null;
+            foreach (Position position in this.Positions)
             {
                 double calcDistance = Math.Sqrt(Math.Pow(position.Latitude - LatitudeParameter, 2)
                     + Math.Pow(position.Longitute - LongitudeParameter, 2));
