@@ -73,7 +73,14 @@ namespace Nearest_Vehicles_to_points.Classes
                     {
                         counter++;
                         int positionID = reader.ReadInt32();
-                        string vehicleRegistration = reader.ReadString();
+                        string vehicleRegistration = string.Empty;
+                        char chr;
+                        do
+                        {
+                            chr = reader.ReadChar();
+                            vehicleRegistration += chr;
+                        }
+                        while (chr != '\0');
                         float latitude = reader.ReadSingle();
                         float longitude = reader.ReadSingle();
                         ulong recordedTimeUTC = reader.ReadUInt64();
